@@ -35,7 +35,9 @@ pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(semaforo_interativo_pico main.c )
+add_executable(semaforo_interativo_pico 
+        main.c
+        )
 
 pico_set_program_name(semaforo_interativo_pico "semaforo_interativo_pico")
 pico_set_program_version(semaforo_interativo_pico "0.1")
