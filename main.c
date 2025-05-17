@@ -199,7 +199,7 @@ void button_isr(uint gpio, uint32_t events) {
 // ==============================================
 void setup() {
     stdio_init_all(); // Inicializa comunicação serial
-    sleep_ms(1000);   // Espera inicialização
+    sleep_ms(5000);   // Espera inicialização
     printf("Semáforo Interativo Iniciado\n");
 
     // Configura LEDs
