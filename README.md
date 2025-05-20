@@ -58,3 +58,9 @@
 2. Implementar modo noturno (piscar amarelo).  
 
 --- 
+
+## Propósito
+
+
+
+Este projeto foi desenvolvido com fins estritamente educacionais e aprendizdo durante a residência em sistemas embarcados pelo embarcatech
